@@ -1,2 +1,2 @@
 # Spotify DJ Playlist APP
-This app retrieves songs from a playlist and queues up songs with the same BPM/KEY and progressively gets faster by tempo
+This app retrieves songs from a playlist and creates a playlist to queue up songs with the same BPM/KEY while progressing the tempo.
