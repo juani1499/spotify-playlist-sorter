@@ -1,32 +1,42 @@
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+import os
 
 # Set up Spotify client
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='6a3d47087f3a4581bed907de4c13959d',
-                                               client_secret='24977ff97ba740b7b3bfcdbce1ace145',
-                                               redirect_uri='your-app-redirect-url',
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='client_id',
+                                               client_secret='client_secret',
+                                               redirect_uri='http://localhost:3005/',
                                                scope='playlist-modify-public'))
 
-# Fetches the playlist
-playlist_id = 'https://open.spotify.com/playlist/7M9KR4x7tVyl6wi9t9vHNB?si=663ac5f3d2e9414c'
-playlist = sp.playlist(playlist_id)
 
-# Get the audio features for each track
-tracks = playlist['tracks']['items']
-features = sp.audio_features([track['track']['id'] for track in tracks])
+def create_sorted_playlist(playlist_id):
+    # Fetch the playlist
+    playlist = sp.playlist(playlist_id)
 
-# Sort the tracks by BPM and key
-sorted_tracks = sorted(features, key=lambda f: (f['tempo'], f['key']))
+    # Get the audio features for each track
+    tracks = playlist['tracks']['items']
+    features = sp.audio_features([track['track']['id'] for track in tracks])
 
-for track in sorted_tracks:
-    print('Track ID:', track['id'])
-    print('BPM:', track['tempo'])
-    print('Key:', track['key'])
-    print('---')
+    # Sort the tracks by BPM and key
+    sorted_tracks = sorted(features, key=lambda f: (f['tempo'], f['key']))
 
-# Create a new playlist
-user_id = sp.me()['id']  # get the current user's ID
-new_playlist = sp.user_playlist_create(user_id, 'My Sorted Playlist')
+    # Print the BPM and key of each track
+    for track in sorted_tracks:
+        print('Track ID:', track['id'])
+        print('BPM:', track['tempo'])
+        print('Key:', track['key'])
+        print('---')
 
-# Add the sorted tracks to the new playlist
-sp.playlist_add_items(new_playlist['id'], [track['id'] for track in sorted_tracks])
+    # Create a new playlist
+    user_id = sp.me()['id']  # get the current user's ID
+    new_playlist = sp.user_playlist_create(user_id, 'My Sorted Playlist')
+
+    # Add the sorted tracks to the new playlist
+    sp.playlist_add_items(new_playlist['id'], [track['id'] for track in sorted_tracks])
+
+
+# Prompt the user for the playlist ID
+playlist_id = input("Enter the playlist ID: ")
+
+# Call the function to create the sorted playlist
+create_sorted_playlist(playlist_id)
