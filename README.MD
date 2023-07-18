@@ -12,7 +12,7 @@ Features:
 This application leverages the Spotipy library, which provides a Python interface for the Spotify Web API. By combining playlist manipulation, audio analysis, and file I/O, it offers a convenient way to curate dynamic and tempo-changing playlists.
 
 Getting started:
-1. Set up your Spotify application and obtain the client ID and client secret.
+1. Set up your Spotify application and obtain the client ID and client secret in order to stash it in the code. (THIS WILL NOT WORK WITHOUT THE CLIENT ID AND CLIENT SECRET)
 2. Configure the necessary environment variables or a configuration file to store the client ID and client secret securely.
 3. Run the application, specifying the target playlist and other desired settings.
 4. Enjoy your new tempo-progressing playlist and find the generated playlist stored in a text file for future use.
