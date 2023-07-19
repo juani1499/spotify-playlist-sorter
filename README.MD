@@ -12,10 +12,21 @@ Features:
 This application leverages the Spotipy library, which provides a Python interface for the Spotify Web API. By combining playlist manipulation, audio analysis, and file I/O, it offers a convenient way to curate dynamic and tempo-changing playlists.
 
 Getting started:
-1. Set up your Spotify application and obtain the client ID and client secret in order to stash it in the code. (THIS WILL NOT WORK WITHOUT THE CLIENT ID AND CLIENT SECRET)
-2. Configure the necessary environment variables or a configuration file to store the client ID and client secret securely.
-3. Run the application, specifying the target playlist and other desired settings.
-4. Enjoy your new tempo-progressing playlist and find the generated playlist stored in a text file for future use.
+
+1. Go to the Spotify Developer Dashboard: Visit the Spotify Developer Dashboard
+2. Login to your Spotify Account: If you're not already logged in, click the 'Log In' button and enter your credentials
+3. Create new app details: You'll be prompted to enter a few details about your app:
+  - App Name: Enter the name of your app. This can be anything you like.
+  - App Description: Enter a brief description of what your app does.
+  - Website: Enter the URL of your app's website. If you don't have a website for your app, you can enter a placeholder URL here.
+  - Redirect URI: This is the URI where users will be redirected after they authenticate with Spotify. For local development, you can use http://localhost:3005/ or any other local URL.
+
+5. Agree to the terms: Check the box to agree to Spotify's terms and conditions, then click 'Create' button.
+6. Get your Client ID and Client Secret: Once your app is created, you'll be taken to a page with your new app's details. Here, you can find your Client ID and Client Secret, which you can use to authenticate with the Spotify API.
+7. Clone this repository and then open the app in any IDE that utilizes Python
+8. Replace client_id and client_secret in the code with your own ID's that can be found in step 6
+9. Run the application, specifying the target playlist and other desired settings.
+10. Enjoy your new tempo-progressing playlist that opens up in your Spotify and find the generated playlist stored in a text file for future use.
 
 Feel free to customize and enhance the application according to your needs and preferences. Happy playlist creation and music exploration!
 
