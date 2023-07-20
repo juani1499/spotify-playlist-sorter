@@ -1,400 +1,500 @@
-Track ID: 3wn8nOygkHLUQ9dlXM1rKW
-BPM: 74.521
-Key: 7
+Track Name: Super Rich Kids
+Artist: Frank Ocean
+BPM: 60.493
+Key: 3
 ---
-Track ID: 0PZzQPcwQfyYXEteIHkYM8
-BPM: 78.447
-Key: 1
----
-Track ID: 6mp9DV7vsQtdqR35RYSpdz
-BPM: 78.974
-Key: 5
----
-Track ID: 2qUZliZ9NHUYIAZqRNe6pZ
-BPM: 80.04
-Key: 7
----
-Track ID: 6c5wQFfJApRMooKE7UQnlH
-BPM: 80.45
-Key: 2
----
-Track ID: 7HuguEkpBmOLbFotJfvAfQ
-BPM: 80.905
-Key: 2
----
-Track ID: 7DST9azASHMawTfFksNnoT
-BPM: 81.499
-Key: 9
----
-Track ID: 4doxCAkqckpGTasPN6ByUu
-BPM: 86.899
-Key: 9
----
-Track ID: 03x3OytZr55MJS5FXzl0Zx
-BPM: 88.604
-Key: 9
----
-Track ID: 5qcwzdhDQjHjmu12gOLjY0
-BPM: 88.932
-Key: 5
----
-Track ID: 2oR8bDhXa7FXTlrDT3QpI5
-BPM: 89.981
-Key: 11
----
-Track ID: 5oady7OSE7dH7LHiqmb3Cr
-BPM: 92.049
-Key: 7
----
-Track ID: 2Hjql0iqpb3oXFuUptCtDn
-BPM: 92.063
-Key: 1
----
-Track ID: 3DG2hUPMLKcFptV1Gv32oI
-BPM: 92.396
-Key: 1
----
-Track ID: 6NKtO7hYNDtjGFXE858qEk
-BPM: 94.199
-Key: 6
----
-Track ID: 0DmkBOGgEWMbUJlL6VwwF2
-BPM: 97.04
-Key: 9
----
-Track ID: 5nGITHcYH3Tt5WolBVEcrJ
-BPM: 97.458
-Key: 1
----
-Track ID: 5KqbsqDW0xgOpZDVxKQPZk
-BPM: 98.511
-Key: 1
----
-Track ID: 5xP9lQYA8YQmQh6BOxcAnR
-BPM: 99.012
-Key: 1
----
-Track ID: 43YQDj1KOPMFAUcTEPKy4p
-BPM: 99.027
-Key: 1
----
-Track ID: 0JuSGEldfovcc8IS9va1wa
-BPM: 99.811
-Key: 7
----
-Track ID: 5yezqGSOStEpRtMPdvs36o
-BPM: 99.966
-Key: 1
----
-Track ID: 7dI2aYLZuGZYLcxVOtL3pq
-BPM: 100.071
-Key: 8
----
-Track ID: 2QZb1ps0j6TQAGIRbpYboE
-BPM: 100.304
-Key: 7
----
-Track ID: 0fgsKar6uBO08vzHXkTjWi
-BPM: 101.024
-Key: 5
----
-Track ID: 00I0pcNkN3IOX3fsYbaB4N
-BPM: 103.021
-Key: 2
----
-Track ID: 706ZrLifsm0nwlucKr4kQg
-BPM: 103.984
-Key: 7
----
-Track ID: 6gpcs5eMhJwax4mIfKDYQk
-BPM: 104.066
-Key: 1
----
-Track ID: 3HV63BLOwyEg9rBIdk6KXq
-BPM: 104.949
+Track Name: Empathy (feat. Alori Joh & Ja Vonte')
+Artist: Ab-Soul
+BPM: 67.485
 Key: 4
 ---
-Track ID: 1CJ8e0zc8uvAmkqdeXrq4u
-BPM: 104.995
+Track Name: Take Me Away (feat. Syd)
+Artist: Daniel Caesar
+BPM: 74.088
 Key: 6
 ---
-Track ID: 439X8jGytErRiPnaoUJHju
-BPM: 106.003
+Track Name: Fabrics
+Artist: Felly
+BPM: 75.589
+Key: 10
+---
+Track Name: Wngs
+Artist: NxWorries
+BPM: 77.084
+Key: 2
+---
+Track Name: White
+Artist: Felly
+BPM: 77.391
 Key: 7
 ---
-Track ID: 5iUQMwxUPdJBFeGkePtM66
+Track Name: The Cut Off (feat. kiLL edward)
+Artist: J. Cole
+BPM: 78.168
+Key: 1
+---
+Track Name: Summertime (feat. Jelly Roll)
+Artist: The Game
+BPM: 79.562
+Key: 0
+---
+Track Name: SUNNY
+Artist: BROCKHAMPTON
+BPM: 79.996
+Key: 4
+---
+Track Name: Living Single
+Artist: Big Sean
+BPM: 80.109
+Key: 11
+---
+Track Name: Nico's Red Truck
+Artist: Dijon
+BPM: 80.22
+Key: 3
+---
+Track Name: Inspire the Escape
+Artist: Nyck Caution
+BPM: 80.937
+Key: 8
+---
+Track Name: Heavenly Father
+Artist: Isaiah Rashad
+BPM: 80.939
+Key: 1
+---
+Track Name: The Glory (feat. Denzel Curry)
+Artist: Flatbush Zombies
+BPM: 81.613
+Key: 1
+---
+Track Name: Float On (feat. Charli XCX)
+Artist: Danny Brown
+BPM: 82.343
+Key: 11
+---
+Track Name: In The Morning
+Artist: J. Cole
+BPM: 83.078
+Key: 3
+---
+Track Name: Best One
+Artist: NxWorries
+BPM: 83.328
+Key: 6
+---
+Track Name: Too High To Riot
+Artist: Bas
+BPM: 83.597
+Key: 10
+---
+Track Name: It Gets Better (With Time)
+Artist: The Internet
+BPM: 83.997
+Key: 7
+---
+Track Name: Knight (feat. Domo Genesis)
+Artist: Earl Sweatshirt
+BPM: 84.679
+Key: 11
+---
+Track Name: Oceans V2
+Artist: Felly
+BPM: 84.921
+Key: 1
+---
+Track Name: PALACE
+Artist: BROCKHAMPTON
+BPM: 85.009
+Key: 10
+---
+Track Name: Wala Cam
+Artist: Chance the Rapper
+BPM: 85.011
+Key: 2
+---
+Track Name: I Am The Walrus - Remastered 2009
+Artist: The Beatles
+BPM: 85.206
+Key: 2
+---
+Track Name: Be My Baby
+Artist: Ivy
+BPM: 85.809
+Key: 0
+---
+Track Name: Gimme Your's
+Artist: AZ
+BPM: 85.82
+Key: 1
+---
+Track Name: Hope
+Artist: Blood Orange
+BPM: 86.35
+Key: 5
+---
+Track Name: Harold’s
+Artist: Freddie Gibbs
+BPM: 86.74
+Key: 4
+---
+Track Name: Killuminati
+Artist: Joey Bada$$
+BPM: 87.15
+Key: 11
+---
+Track Name: Terry
+Artist: Action Bronson
+BPM: 87.538
+Key: 1
+---
+Track Name: Hazeus View
+Artist: Joey Bada$$
+BPM: 89.818
+Key: 9
+---
+Track Name: Sincerity Is Scary
+Artist: The 1975
+BPM: 91.027
+Key: 2
+---
+Track Name: You've Got a Friend
+Artist: James Taylor
+BPM: 91.681
+Key: 9
+---
+Track Name: Come Over
+Artist: The Internet
+BPM: 92.01
+Key: 8
+---
+Track Name: SWIM
+Artist: BROCKHAMPTON
+BPM: 92.989
+Key: 4
+---
+Track Name: The 1 That Got Away/No Shoes (feat. Charlie Wilson)
+Artist: VIC MENSA
+BPM: 93.558
+Key: 8
+---
+Track Name: Brooklyn's Own
+Artist: Joey Bada$$
+BPM: 93.607
+Key: 7
+---
+Track Name: 1985 - Intro to “The Fall Off”
+Artist: J. Cole
+BPM: 94.378
+Key: 2
+---
+Track Name: Righteous Minds
+Artist: Joey Bada$$
+BPM: 94.893
+Key: 8
+---
+Track Name: Sober Thoughts
+Artist: GoldLink
+BPM: 95.016
+Key: 8
+---
+Track Name: God Is Fair, Sexy Nasty (feat. Kendrick Lamar)
+Artist: Mac Miller
+BPM: 95.931
+Key: 2
+---
+Track Name: Wah-Wah - Remastered 2014
+Artist: George Harrison
+BPM: 96.39
+Key: 9
+---
+Track Name: Change
+Artist: J. Cole
+BPM: 97.063
+Key: 11
+---
+Track Name: Hereditary
+Artist: Isaiah Rashad
+BPM: 97.544
+Key: 1
+---
+Track Name: Strawberry Fields Forever - Remastered 2009
+Artist: The Beatles
+BPM: 97.871
+Key: 10
+---
+Track Name: The Palisades
+Artist: Childish Gambino
+BPM: 100.055
+Key: 8
+---
+Track Name: Matches
+Artist: Bas
+BPM: 101.789
+Key: 6
+---
+Track Name: La Di Da
+Artist: The Internet
+BPM: 103.119
+Key: 1
+---
+Track Name: In My Life - Remastered 2009
+Artist: The Beatles
+BPM: 103.239
+Key: 9
+---
+Track Name: Who Hurt You?
+Artist: Daniel Caesar
+BPM: 104.542
+Key: 11
+---
+Track Name: TEMPTATION
+Artist: Joey Bada$$
+BPM: 104.979
+Key: 10
+---
+Track Name: A Spike Lee Joint (feat. Anthony Flammia)
+Artist: Flatbush Zombies
+BPM: 105.639
+Key: 6
+---
+Track Name: Dang! (feat. Anderson .Paak)
+Artist: Mac Miller
 BPM: 107.018
 Key: 5
 ---
-Track ID: 0E0DRHf5PfMeor0ZCwB3oT
-BPM: 108.02
-Key: 2
+Track Name: Pyramids
+Artist: Frank Ocean
+BPM: 107.989
+Key: 5
 ---
-Track ID: 3uJ0spXcRqOO8PCGAnjSeQ
-BPM: 110.063
+Track Name: FRIENDS (feat. kiLL edward)
+Artist: J. Cole
+BPM: 109.28
+Key: 6
+---
+Track Name: Forbidden Fruit (feat. Kendrick Lamar)
+Artist: J. Cole
+BPM: 110.029
 Key: 1
 ---
-Track ID: 4O9t8Qq941SAzdGlex4noA
-BPM: 111.038
-Key: 10
+Track Name: Get Away
+Artist: The Internet
+BPM: 110.371
+Key: 9
 ---
-Track ID: 0dFdGPVLs3k0z9ezYWZzUa
-BPM: 112.009
-Key: 11
+Track Name: I Might Need Security
+Artist: Chance the Rapper
+BPM: 110.568
+Key: 9
 ---
-Track ID: 2RnPATK99oGOZygnD2GTO6
+Track Name: With A Little Help From My Friends - Remastered 2009
+Artist: The Beatles
 BPM: 112.035
 Key: 4
 ---
-Track ID: 3CblJq8QQQ0bb7vwJu8c3v
-BPM: 112.046
-Key: 6
----
-Track ID: 4fPjI40ElIwJQ4DJJxSCOe
-BPM: 114.21
-Key: 6
----
-Track ID: 0Dh7LsAuAyaaucEMD5ULHV
-BPM: 115.006
+Track Name: Death & Taxes
+Artist: Daniel Caesar
+BPM: 113.941
 Key: 7
 ---
-Track ID: 38spM0LahLUfQhOMAqA7AI
-BPM: 115.012
-Key: 6
----
-Track ID: 5yNL07FfOxLK8onHaA7JIa
-BPM: 117.025
-Key: 0
----
-Track ID: 7v9Q0dAb9t7h8gJOkcJHay
-BPM: 117.791
-Key: 1
----
-Track ID: 0aocB2ukxn2Gy663wEEW3j
-BPM: 117.95
-Key: 1
----
-Track ID: 0F2gXzgbzLvK9LrS7yKS8Q
-BPM: 117.987
-Key: 2
----
-Track ID: 6txjv1bYloEaQ65SainV1Y
-BPM: 118.581
-Key: 9
----
-Track ID: 1fPYeNbEnfXwCX3bmLpIW2
-BPM: 119.956
-Key: 0
----
-Track ID: 4k7dYdLGhJuUjaeEQB5hcA
-BPM: 119.968
-Key: 11
----
-Track ID: 3S68RFe1lsdCdTMPIMJM3X
-BPM: 119.971
-Key: 7
----
-Track ID: 16g0MvK60Z79npuD4wvh4E
-BPM: 120.13
-Key: 7
----
-Track ID: 4Wlz0HsHZlJy0NDK2h6jq6
-BPM: 121.979
-Key: 1
----
-Track ID: 6NaVCCFGylOLZAgk5eTTid
-BPM: 123.189
-Key: 2
----
-Track ID: 7Fu7oAPgquDRVz7C75J5N6
-BPM: 123.938
-Key: 4
----
-Track ID: 2P1oNlBGmFudn3ZyUrj7hJ
-BPM: 123.958
-Key: 1
----
-Track ID: 0C3QADQBYFjcSeU8bY7Oex
-BPM: 124.007
+Track Name: Me and Your Mama
+Artist: Childish Gambino
+BPM: 117.99
 Key: 5
 ---
-Track ID: 3rjwafyisDpLdoJ4RecHp6
-BPM: 124.685
-Key: 1
----
-Track ID: 0oiv4E896TUTTeQU0cmIui
-BPM: 124.994
-Key: 4
----
-Track ID: 0ORL8Xc4BO9K6sORsO4pBw
-BPM: 125.002
-Key: 6
----
-Track ID: 4FEcEwbE2vsqhxbTPtiNTL
-BPM: 125.015
-Key: 11
----
-Track ID: 0fRsAGSCbEjdSYM1U3NYx2
-BPM: 125.022
-Key: 11
----
-Track ID: 73Ebt3CtqJ2RaVSUHV4rsU
-BPM: 125.982
-Key: 0
----
-Track ID: 3yk7PJnryiJ8mAPqsrujzf
-BPM: 125.985
-Key: 11
----
-Track ID: 4WrgMQFeiC7PrCYOMaGtjA
-BPM: 126.09
-Key: 6
----
-Track ID: 6SpBKyfn9BnvnoQbUGPlYM
-BPM: 127.915
-Key: 0
----
-Track ID: 5egOCFhZVWP2C9UwhApe6B
-BPM: 128.018
-Key: 7
----
-Track ID: 6IyoLWzljeR3ldQo4KWHT6
-BPM: 128.07
-Key: 4
----
-Track ID: 0z3YYobsavHguLTgqg5GC1
-BPM: 128.519
-Key: 2
----
-Track ID: 3aQem4jVGdhtg116TmJnHz
-BPM: 129.895
-Key: 0
----
-Track ID: 2ZL7WZcjuYKi1KUDtp4kCC
-BPM: 129.963
-Key: 7
----
-Track ID: 2ntMdOsTvndzY4vQzkSigb
-BPM: 129.975
-Key: 11
----
-Track ID: 1hovkSJMIpP5hfuyb756G4
-BPM: 130.04
-Key: 2
----
-Track ID: 0PQ5BDg3ECIpNw82KAieEI
-BPM: 132.005
-Key: 1
----
-Track ID: 4oZnV1W54b1TIn96i0KIwV
-BPM: 133.054
-Key: 9
----
-Track ID: 1BpKJw4RZxaFB88NE5uxXf
-BPM: 134.988
-Key: 4
----
-Track ID: 7Fege3yv4dvehB3NdRBGwI
-BPM: 135.143
-Key: 0
----
-Track ID: 7qLr3HMApUbyDkUvgIvHnB
-BPM: 136.01
-Key: 7
----
-Track ID: 5iJgH1PZPbikk9PfE55GJc
-BPM: 136.036
-Key: 7
----
-Track ID: 54q8OmZWMQeHwiYgran4e9
-BPM: 136.063
-Key: 1
----
-Track ID: 4sylKPWeCdJnAvZdflt0y5
-BPM: 136.966
-Key: 10
----
-Track ID: 1eMNW1HQjF1dbb4GtnmpaX
-BPM: 140.028
-Key: 4
----
-Track ID: 1kaxyXcAi5ZHF3Q94QXsHK
-BPM: 140.036
-Key: 4
----
-Track ID: 7aRCf5cLOFN1U7kvtChY1G
-BPM: 142.024
-Key: 10
----
-Track ID: 5B0kgjHULYJhAQkK5XsMoC
-BPM: 142.347
-Key: 0
----
-Track ID: 7iTTWHbr4tAlsRJN4m4bay
-BPM: 143.091
-Key: 1
----
-Track ID: 3OGCNLxpBmTYRxPZg2yDE5
-BPM: 143.943
+Track Name: LVL
+Artist: A$AP Rocky
+BPM: 119.899
 Key: 5
 ---
-Track ID: 0BVaNH5prNNveWy81VIC6S
-BPM: 143.97
+Track Name: Passionfruit
+Artist: Benny Sings
+BPM: 120.962
+Key: 1
+---
+Track Name: Uncle Salty
+Artist: Aerosmith
+BPM: 122.118
+Key: 2
+---
+Track Name: Let It Down - Original Guitar And Vocal / Remastered 2014
+Artist: George Harrison
+BPM: 123.849
+Key: 9
+---
+Track Name: Rich Niggaz
+Artist: J. Cole
+BPM: 125.007
 Key: 8
 ---
-Track ID: 2HIjQZsmscClqRGbfzwAgK
-BPM: 147.033
-Key: 10
----
-Track ID: 3ei6crB9fZNrn5saSNBMkH
-BPM: 147.082
-Key: 10
----
-Track ID: 1jgcODbfAL3tV7tikF6n1j
-BPM: 148.07
-Key: 7
----
-Track ID: 47y5boKoOnJoSpBpPEZvhz
-BPM: 150.514
-Key: 7
----
-Track ID: 3F3N97ZRJJf42YPpwy4iJZ
-BPM: 151.876
-Key: 5
----
-Track ID: 0VlpgNPHWCyh8xxLcaK2fp
-BPM: 154.081
-Key: 2
----
-Track ID: 2nK3bNHjO0IAMarcoN27UK
-BPM: 156.021
-Key: 11
----
-Track ID: 34axCSujRVT7YWmDvisjdQ
-BPM: 158.127
-Key: 6
----
-Track ID: 420ZJ2hWsQv7i8IuER1e9e
-BPM: 161.989
-Key: 11
----
-Track ID: 7491l7CnemDkYH0jsoLvYr
-BPM: 162.924
+Track Name: Cab Deg
+Artist: Good Morning
+BPM: 126.288
 Key: 4
 ---
-Track ID: 3zakx7RAwdkUQlOoQ7SJRt
-BPM: 163.908
+Track Name: Brotha Man (feat. French Montana)
+Artist: A$AP Rocky
+BPM: 126.485
 Key: 1
 ---
-Track ID: 1iQi4lFpgIPTMeGXlQqZKk
-BPM: 174.067
+Track Name: 1999 WILDFIRE
+Artist: BROCKHAMPTON
+BPM: 128.066
+Key: 5
+---
+Track Name: Show Me A Good Time
+Artist: Drake
+BPM: 128.318
 Key: 6
 ---
-Track ID: 0KBg8fop4DsefGLKkkuenn
-BPM: 176.268
+Track Name: Doing Better
+Artist: Jamie Isaac
+BPM: 129.982
+Key: 8
+---
+Track Name: Summers Over Interlude
+Artist: Drake
+BPM: 132.031
+Key: 4
+---
+Track Name: Smile
+Artist: Isaiah Rashad
+BPM: 132.155
+Key: 2
+---
+Track Name: Lil Shorty 2
+Artist: ICYTWAT
+BPM: 134.109
+Key: 1
+---
+Track Name: Let It Down - Remastered 2014
+Artist: George Harrison
+BPM: 135.352
+Key: 9
+---
+Track Name: Purity (feat. Frank Ocean)
+Artist: A$AP Rocky
+BPM: 135.391
 Key: 11
 ---
-Track ID: 3cjF2OFRmip8spwZYQRKxP
-BPM: 193.818
+Track Name: R.I.P. Kevin Miller
+Artist: Isaiah Rashad
+BPM: 136.158
+Key: 8
+---
+Track Name: Warned You
+Artist: Good Morning
+BPM: 138.163
+Key: 6
+---
+Track Name: Sacrifices
+Artist: Drake
+BPM: 139.112
+Key: 8
+---
+Track Name: I'd Have You Anytime - Remastered 2014
+Artist: George Harrison
+BPM: 139.53
 Key: 7
+---
+Track Name: 4r Da Squaw
+Artist: Isaiah Rashad
+BPM: 143.934
+Key: 10
+---
+Track Name: Final Fantasy
+Artist: Drake
+BPM: 144.206
+Key: 0
+---
+Track Name: Biking
+Artist: Frank Ocean
+BPM: 147.981
+Key: 2
+---
+Track Name: Herside Story
+Artist: GoldLink
+BPM: 148.034
+Key: 7
+---
+Track Name: Ronnie Drake (feat. SZA)
+Artist: Isaiah Rashad
+BPM: 154.335
+Key: 8
+---
+Track Name: The Ride
+Artist: Drake
+BPM: 155.948
+Key: 0
+---
+Track Name: EdEddnEddy
+Artist: JID
+BPM: 157.964
+Key: 0
+---
+Track Name: Two Weeks
+Artist: Grizzly Bear
+BPM: 159.871
+Key: 5
+---
+Track Name: Pink + White
+Artist: Frank Ocean
+BPM: 159.94
+Key: 9
+---
+Track Name: A Day In The Life - Remastered 2009
+Artist: The Beatles
+BPM: 163.219
+Key: 4
+---
+Track Name: Feels Like Summer
+Artist: Childish Gambino
+BPM: 165.736
+Key: 7
+---
+Track Name: A.W.O.L.
+Artist: EARTHGANG
+BPM: 166.612
+Key: 2
+---
+Track Name: Chasin' Papers (feat. Pharrell)
+Artist: Curren$y
+BPM: 169.769
+Key: 11
+---
+Track Name: Oh! Darling - Remastered 2009
+Artist: The Beatles
+BPM: 173.93
+Key: 4
+---
+Track Name: Just Another Day
+Artist: The Game
+BPM: 174.466
+Key: 2
+---
+Track Name: 713
+Artist: The Carters
+BPM: 177.844
+Key: 6
+---
+Track Name: Knicks
+Artist: Freddie Gibbs
+BPM: 179.28
+Key: 1
+---
+Track Name: Deeper
+Artist: Freddie Gibbs
+BPM: 180.392
+Key: 1
+---
+Track Name: Charcoal Baby
+Artist: Blood Orange
+BPM: 183.241
+Key: 7
+---
+Track Name: Everytime
+Artist: boy pablo
+BPM: 203.908
+Key: 2
 ---
