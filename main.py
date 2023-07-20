@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 import os
 
-sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='CLIENT_ID',
-                                               client_secret='CLIENT_SECRET',
+sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id='CLIENT_ID', # Add your client id from spotify
+                                               client_secret='CLIENT_SECRET', # Add your client secret from spotify
                                                redirect_uri='http://localhost:3005/',
                                                scope='playlist-modify-public'))
 
