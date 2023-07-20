@@ -1,6 +1,6 @@
 # Spotify Tempo/Key Playlist Sorter (CAPS AT 100 SONGS)
 
-This Python application utilizes the Spotify API to retrieve songs from playlists, extract their tempo and key information, and create a new playlist that progressively increases in tempo. Additionally, it stores the generated playlist in a text file for future reference. ** Useful tool for DJ's and Beatmatching **
+This Python application utilizes the Spotify API to retrieve songs from playlists, extract their tempo and key information, and create a new playlist that progressively increases in tempo. Additionally, it stores the generated playlist in a text file for future reference. Ultimately being a useful tool for DJ's and beatmatching techniques.
 
 Features:
 - Fetches songs from specified Spotify playlists using the Spotify API.
